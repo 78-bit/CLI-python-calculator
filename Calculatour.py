@@ -11,4 +11,4 @@ elif op == "+":
 elif op == "*":
     res = num1*num2
 print(num1,op,num2, "=" ,res)
-o = input("press anything to close the app")n
+o = input("press anything to close the app")
