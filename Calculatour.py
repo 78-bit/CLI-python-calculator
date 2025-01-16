@@ -1,3 +1,4 @@
+for i in range
 op = input("choose an opreator (/.-.*.+):  ")
 num1 = int(input("enter first number:  "))
 num2 = int(input("enter second number:  "))
@@ -10,3 +11,4 @@ elif op == "+":
 elif op == "*":
     res = num1*num2
 print(num1,op,num2, "=" ,res)
+o = input("press anything to close the app")n
